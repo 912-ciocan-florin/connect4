@@ -33,5 +33,5 @@ Enter command number:
 * [Layered Architecture](https://en.wikipedia.org/wiki/Multitier_architecture)
 * [Modular Programming](https://en.wikipedia.org/wiki/Modular_programming)
 * [Minmax algorithm](https://en.wikipedia.org/wiki/Minimax)
-* [pygame](https://www.pygame.org/wiki/GettingStarted) module
+* [pygame module](https://www.pygame.org/wiki/GettingStarted)
 * [PyUnit tests](https://docs.python.org/3/library/unittest.html)
